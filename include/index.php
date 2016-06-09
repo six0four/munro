@@ -1,5 +1,6 @@
 <!-- projects http://munro.humber.ca/~mdrk0011/projects/index.php -->
-<?php include '../include/prototypeheader.php';?>
+<?php include 'prototypeheader.php';?>
+    
                 <DIV ID="Wrapper">
 
                         <ARTICLE ID="Article_1">
@@ -171,7 +172,7 @@ Fountains</a></li>
 
                 </DIV>
 
-<?php include '../include/switchcolumns.php';?>
+<?php include 'switchcolumns.php';?>
     
                 <NAV>
                         <UL>
@@ -188,4 +189,4 @@ href="#Section_5">Research Projects</a></LI>
                         </UL>
                 </NAV>
 
-<?php include '../include/prototypefooter.php';?>
+<?php include 'prototypefooter.php';?>
