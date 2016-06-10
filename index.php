@@ -70,7 +70,29 @@ Profile
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </p>
   </SECTION>
-  <SECTION ID="Section_8">
+    <SECTION ID="Section_8">
+   <H3>Ongoing Professional Development</h3>
+   <p>
+    <ul>
+<li>-Participates in many on campus and off campus professional development opportunities including industry events and presenting at the League for Innovation STEMtech conference.</li>
+<li>-CTL Git Session.</li>
+<li>-Sign off plan for Teaching effectiveness program created.</li>
+<li>-Took a Lynda.com quiz. Excursion to: Skills, The University of Waterloo 3D Print Centre which offers PCB (Printed Circuit Board) milling and manufacturing (https://uwaterloo.ca/3d-print-centre/circuit-board-manufacturing/pcb-technology) and the Velocity centre (http://velocity.uwaterloo.ca/)</li>
+<li>-Campus wide Lynda.com subscription - recompleted a course via the institutional login, also as pointed out: https://openeducation.blackboard.com/ which will be interesting if it grows. As well as http://www.parl.gc.ca/Content/HOC/Committee/412/FINA/WebDoc/WD6615327/412_FINA_PBC2014_Briefs%5CDownsviewAerospaceInnovationAndResearch-e.pdf</li>
+<li>-Signed up for https://www.edx.org/, Prototype Lab pie chart made in R.</li>
+<li>-Created an xml document into which tagged points of interest can be entered, formatted by css, and parsed by javascript.</li>
+<li>-Noticed: https://aws.amazon.com/iot/ (video has an arm similar to one built by part-time support staff) and http://docs.aws.amazon.com/iot/latest/developerguide/iot-device-sdk-node.html</li>
+<li>-OPC seminar about industrial networks.</li>
+<li>-Gender and Diversity training.</li>
+<li>-Cisco VOIP Telephony system orientation was cancelled and the trainer was gone before I arrived (since I was late). 2 people registered.</li>
+<li>-Writing MECH 106 exam and looking up equipment: Festo Diadactic Desktop CNC Mill Training System (Heavy Duty - for LabVolt this means can machine materials other than plastic) 5600-2 Festo Didactic Desktop CNC Lathe Training System (Heavy Duty - for LabVolt this means can machine materials other than plastic) with Automatic Tool Changer 5500-5 McMaster-Carr Drilling/Milling Machine 16" Manual Drill Feed, 1-1/4" Hole, 115/230V AC 8724A39 McMaster-Carr Vertical Band Saw for Metal, Wood, and Plastics 4145A12 McMaster-Carr Zoom Microscope with Digital Imaging 6.7X to 50X 22005A49 Desktop 3D printer Judco Manufacturing Inc Digi-Key Part Number 36-0100-00-ND http://media.digikey.com/pdf/Data%20Sheets/Judco%20PDFs/36-0100-00.pdf WELLER WFE2ESKIT1 ZERO SMOG VOLUME FUME EXTRACTION STATION KIT http://canada.newark.com/weller/ Oscilloscope the uses PC monitor as display using software and a peripheral via usb, Manufacturer BITSCOPE, Newark Part No.: 51Y5800 http://canada.newark.com/bitscope/bitscope-micro-bnc-port-adap/oscilloscope-adapter-2ch-20mhz/dp/51Y5800?ost=bitscope and categoryId=800000047003</li>
+<li>-Discussion of having a Profinet Demo Platform Setup (as attached) at Humber came up during lunch at the seminar.</li>
+<li>-Studying for and writing MECH 106 midterm, machining first piece.</li>
+<li>-MECH106 class and lab as a registered student.</li>
+	</ul>
+   </p>
+  </SECTION>
+  <SECTION ID="Section_9">
    <H3>Student Feedback/Comments</h3>
    <p>
     <ul>
@@ -169,7 +191,9 @@ href="#Section_2">Research</a></LI>
                                 <LI><a 
 href="#Section_7">Twitter Feed</a></LI>
                                 <LI><a 
-href="#Section_8">Student Feedback/Comments</a></LI>
+href="#Section_8">Ongoing Professional Development</a></LI>
+                                <LI><a 
+href="#Section_9">Student Feedback/Comments</a></LI>
                         </UL>
                 </NAV>
 
