@@ -1,4 +1,4 @@
-<?php include 'prototypeheader.php';?>
+<?php include '../include/prototypeheader.php';?>
     
                 <DIV ID="Wrapper">
 
@@ -106,7 +106,7 @@ Raspberry Pi Power Supply from Line voltage.</li>
 
                 </DIV>
 
-<?php include 'switchcolumns.php';?>
+<?php include '../include/switchcolumns.php';?>
     
                 <NAV>
                         <UL>
@@ -121,4 +121,4 @@ href="#Section_4">Returning Equipment</a></LI>
                         </UL>
                 </NAV>
 
-<?php include 'prototypefooter.php';?>
+<?php include '../include/prototypefooter.php';?>
