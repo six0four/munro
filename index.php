@@ -149,7 +149,7 @@ Profile
 <li>I liked the software programming part. Keep the course the same.</li>
 <li>I liked being treated more like an employee in the field.</li>
 <li>I love the part of soldering.</li>
-<li>I like bulding electronics.</li>
+<li>I like building electronics.</li>
 <li>I like soldering, troubleshooting.</li>
 <li>The professor took the time to fully explain the material. No question was ever a stupid question.</li>
 <li>I like that it was varied and hands on.</li>
@@ -159,11 +159,11 @@ Profile
 <li>I liked learning about different hardware boards, using Prototype Lab working with company.</li>
 <li>Gave us a good opportunity to integrate everything we've learned.</li>
 <li>Kristian is a great prof who understands what to teach to prepare us for the real world. The course is well outlined and expectations are set since the beginning.</li>
-<li>Professor did a good job and ws able to help students.</li>
+<li>Professor did a good job and was able to help students.</li>
 <li>Best course I have taken in CENG so far.</li>
 <li>Pretty chill guy, chill is good.</li>
 <li>This course was really useful. Learnt a lot. The stuff was really helpful. The guidance of professor ws great. Excellent experience. Thank you!</li>
-<li>I liked hardware software intgration and learning about different things.</li>
+<li>I liked hardware software integration and learning about different things.</li>
 <li>I liked group work, regular feedback.</li>
 <li>Fun.</li>
 <li>Hands Down the best teacher.</li>
